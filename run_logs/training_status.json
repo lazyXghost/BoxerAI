@@ -1,0 +1,66 @@
+{
+    "Boxer": {
+        "checkpoints": [
+            {
+                "steps": 96499987,
+                "file_path": "results/BoxerId5/Boxer/Boxer-96499987.onnx",
+                "reward": 33.757057041418356,
+                "creation_time": 1701238876.6578062,
+                "auxillary_file_paths": [
+                    "results/BoxerId5/Boxer/Boxer-96499987.pt"
+                ]
+            },
+            {
+                "steps": 96999966,
+                "file_path": "results/BoxerId5/Boxer/Boxer-96999966.onnx",
+                "reward": 43.09767446185267,
+                "creation_time": 1701240718.0268888,
+                "auxillary_file_paths": [
+                    "results/BoxerId5/Boxer/Boxer-96999966.pt"
+                ]
+            },
+            {
+                "steps": 97499905,
+                "file_path": "results/BoxerId5/Boxer/Boxer-97499905.onnx",
+                "reward": 35.335611112301166,
+                "creation_time": 1701242569.6949573,
+                "auxillary_file_paths": [
+                    "results/BoxerId5/Boxer/Boxer-97499905.pt"
+                ]
+            },
+            {
+                "steps": 97566561,
+                "file_path": "results/BoxerId5/Boxer/Boxer-97566561.onnx",
+                "reward": 48.59786021709442,
+                "creation_time": 1701242825.9513257,
+                "auxillary_file_paths": [
+                    "results/BoxerId5/Boxer/Boxer-97566561.pt"
+                ]
+            },
+            {
+                "steps": 97575150,
+                "file_path": "results/BoxerId5/Boxer/Boxer-97575150.onnx",
+                "reward": 49.805086309259586,
+                "creation_time": 1701243050.5975387,
+                "auxillary_file_paths": [
+                    "results/BoxerId5/Boxer/Boxer-97575150.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 97575150,
+            "file_path": "results/BoxerId5/Boxer.onnx",
+            "reward": 49.805086309259586,
+            "creation_time": 1701243050.5975387,
+            "auxillary_file_paths": [
+                "results/BoxerId5/Boxer/Boxer-97575150.pt"
+            ]
+        },
+        "elo": -96797.5400182733
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "2.1.0+cu121"
+    }
+}
